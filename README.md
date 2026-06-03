@@ -39,7 +39,6 @@ Do fare-free bus transport schemes increase female labour force participation in
 - Full Research Paper (PDF)
 - Research Presentation (PDF)
 - Project Summary
-- Methodological Framework
 
 ## Authors
 
