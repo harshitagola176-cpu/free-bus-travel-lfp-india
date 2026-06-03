@@ -32,12 +32,14 @@ Do fare-free bus transport schemes increase female labour force participation in
 * Female mobility and public transport usage increased.
 * However, female labour force participation did not experience a significant increase.
 * Structural barriers such as unpaid care responsibilities, labour demand constraints, and social norms continue to limit participation.
+  
 
 ## Repository Contents
 
-* Research Presentation (PDF)
-* Project Summary
-* Methodological Framework
+- Full Research Paper (PDF)
+- Research Presentation (PDF)
+- Project Summary
+- Methodological Framework
 
 ## Authors
 
